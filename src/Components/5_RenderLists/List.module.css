@@ -1,0 +1,21 @@
+.Category {
+  font-size: 2.5em;
+  font-weight: bold;
+  color: crimson;
+  margin-bottom: 10px;
+  text-align: center;
+  border: 3px solid;
+  border-radius: 5px;
+  background-color: cornsilk;
+}
+.items li {
+  font-size: 2em;
+  list-style: none;
+  color: black;
+  text-align: center;
+  margin: 0;
+}
+.items li:hover {
+  cursor: pointer;
+  color: darkgray;
+}

@@ -1,0 +1,17 @@
+.Logged {
+  font-size: 2.5em;
+  background-color: green;
+  color: wheat;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+}
+
+.NotLogged {
+  font-size: 2.5em;
+  background-color: red;
+  color: wheat;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+}
